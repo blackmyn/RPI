@@ -1,0 +1,2 @@
+[2024-02-11T09:45:17.041Z] New product added: NVIDIA RTX 3080
+[2024-02-11T09:45:17.044Z] New product added: AMD RX 6900 XT

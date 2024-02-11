@@ -1,0 +1,16 @@
+[
+  {
+    "interfaceType": "PCIe 4.0",
+    "gpuManufacturer": "NVIDIA",
+    "gpu": "RTX 4080",
+    "gpuFrequency": "1.44 GHz",
+    "videoMemory": "10 GB"
+  },
+  {
+    "interfaceType": "PCIe 4.0",
+    "gpuManufacturer": "AMD",
+    "gpu": "RX 6800 XT",
+    "gpuFrequency": "2.25 GHz",
+    "videoMemory": "16 GB"
+  }
+]

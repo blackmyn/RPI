@@ -1,11 +1,10 @@
 const fs = require('fs');
-const path = require('path');
 const { performance } = require('perf_hooks');
 
 const TIMER_1_DELAY = 1000;
 const TIMER_2_DELAY = 3000;
 const TIMER_3_DELAY = 5000;
-const FILE_PATH = path.join(__dirname, 'sample.txt');
+const FILE_PATH = 'lab3/dist/sample.txt';
 
 const startTime = performance.now();
 
