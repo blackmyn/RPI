@@ -11,8 +11,8 @@ The "Internet Application Development" course focuses on teaching the principles
 This repository is organized into subdirectories, each representing a specific laboratory work or project. Here's a brief overview of what you can find inside:
 
 - `Lab1/`: Introduction to Node.js and server-side programming : Done 2/4/24
-- `Lab2/`: Cycle of events. Working with the file system : Done 2/5/24
-- `Lab3/`: ...
+- `Lab2/`: Working with the file system : Done 2/5/24
+- `Lab3/`: Cycle of events : Done 2/11/24
 - `Lab4/`: ...
 - `...`: and more to come!
 
