@@ -10,5 +10,13 @@ if (err) {
 
 const graphicsCardsArray = JSON.parse(data);
 
-console.log(graphicsCardsArray);
+console.log('--------------------------');
+for (const graphicsCard of graphicsCardsArray) {
+    console.log(`GPU: ${graphicsCard.gpu}`);
+    console.log(`Manufacturer: ${graphicsCard.gpuManufacturer}`);
+    console.log(`Interface Type: ${graphicsCard.interfaceType}`);
+    console.log(`GPU Frequency: ${graphicsCard.gpuFrequency}`);
+    console.log(`Video Memory: ${graphicsCard.videoMemory}`);
+    console.log('--------------------------');
+}
 });

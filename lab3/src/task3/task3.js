@@ -12,6 +12,8 @@ const subscriber1 = new Subscriber('Subscriber1', logFilePathSubscriber1);
 const subscriber2 = new Subscriber('Subscriber2', logFilePathSubscriber2);
 
 productList.addSubscriber(subscriber1);
+const graphicsCard = new GraphicsCard('PCIe', 'AMD', '123123', '2.25 GHz', '16 GB');
+productList.addProduct(graphicsCard);
 productList.addSubscriber(subscriber2);
 
 const graphicsCard1 = new GraphicsCard('PCIe', 'NVIDIA', 'RTX 3080', '1.71 GHz', '10 GB');
