@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "http://127.0.0.1:3000/lab4/task1/early_life.html",
+      "request": "launch",
+      "url": "http://127.0.0.1:3000/lab4/task1/early_life.html"
+    },
+    {
+      "type": "chrome",
+      "name": "http://127.0.0.1:3000/lab4/task1/index.html",
+      "request": "launch",
+      "url": "http://127.0.0.1:3000/lab4/task1/index.html"
+    },
+    {
+      "type": "chrome",
+      "name": "http://127.0.0.1:3000/lab4/task1/html/career.html",
+      "request": "launch",
+      "url": "http://127.0.0.1:3000/lab4/task1/html/career.html"
+    }
+  ]
+}

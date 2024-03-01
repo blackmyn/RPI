@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "animejs": "^3.2.2",
+    "winston": "^3.11.0"
+  },
+  "name": "rpi",
+  "description": "Welcome to the repository for the laboratory works associated with the course \"Internet Application Development\". This repository serves as a collection of projects and exercises that demonstrate the use of JavaScript and Node.js in the development of web applications.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
