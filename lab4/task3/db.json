@@ -1,0 +1,84 @@
+{
+  "videoCards": [
+  {
+    "id": 1,
+    "interfaceType": "PCIe 4.0",
+    "gpuManufacturer": "NVIDIA",
+    "gpu": "GeForce RTX 4090",
+    "gpuFrequency": "1950 MHz (boost)",
+    "videoMemory": "24GB GDDR6X"
+  },
+  {
+    "id": 2,
+    "interfaceType": "PCIe 4.0",
+    "gpuManufacturer": "AMD",
+    "gpu": "Radeon RX 7900 XT",
+    "gpuFrequency": "2100 MHz (boost)",
+    "videoMemory": "20GB GDDR6"
+  },
+  {
+    "id": 3,
+    "interfaceType": "PCIe 3.0",
+    "gpuManufacturer": "NVIDIA",
+    "gpu": "GeForce RTX 3080",
+    "gpuFrequency": "1800 MHz (boost)",
+    "videoMemory": "10GB GDDR6X"
+  },
+  {
+    "id": 4,
+    "interfaceType": "PCIe 3.0",
+    "gpuManufacturer": "AMD",
+    "gpu": "Radeon RX 6800 XT",
+    "gpuFrequency": "2015 MHz (boost)",
+    "videoMemory": "16GB GDDR6"
+  },
+  {
+    "id": 5,
+    "interfaceType": "PCIe 3.0",
+    "gpuManufacturer": "NVIDIA",
+    "gpu": "GeForce GTX 1660 Ti",
+    "gpuFrequency": "1770 MHz (boost)",
+    "videoMemory": "6GB GDDR6"
+  },
+  {
+    "id": 6,
+    "interfaceType": "PCIe 4.0",
+    "gpuManufacturer": "NVIDIA",
+    "gpu": "GeForce RTX 3060 Ti",
+    "gpuFrequency": "1665 MHz (boost)",
+    "videoMemory": "8GB GDDR6X"
+  },
+  {
+    "id": 7,
+    "interfaceType": "PCIe 4.0",
+    "gpuManufacturer": "AMD",
+    "gpu": "Radeon RX 6700 XT",
+    "gpuFrequency": "2510 MHz (boost)",
+    "videoMemory": "12GB GDDR6"
+  },
+  {
+    "id": 8,
+    "interfaceType": "PCIe 3.0",
+    "gpuManufacturer": "NVIDIA",
+    "gpu": "GeForce GTX 1080 Ti",
+    "gpuFrequency": "1645 MHz (boost)",
+    "videoMemory": "11GB GDDR5X"
+  },
+  {
+    "id": 9,
+    "interfaceType": "PCIe 3.0",
+    "gpuManufacturer": "AMD",
+    "gpu": "Radeon RX 5700 XT",
+    "gpuFrequency": "2050 MHz (boost)",
+    "videoMemory": "8GB GDDR6"
+  },
+  {
+    "id": 10,
+    "interfaceType": "PCIe 3.0",
+    "gpuManufacturer": "NVIDIA",
+    "gpu": "GeForce GTX 1650",
+    "gpuFrequency": "1660 MHz (boost)",
+    "videoMemory": "4GB GDDR6"
+    }
+  ]
+}
